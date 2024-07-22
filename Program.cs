@@ -37,9 +37,6 @@
                 Console.WriteLine("캐릭터가 피격당했습니다.");
             }
 
-
-
-
             static void Main(string[] args)
             {
 
